@@ -1,0 +1,30 @@
+body{
+    background-image: url("TECH MEDICAL.jpeg")
+}
+div{
+       text-align: center;  
+        padding: 200px;
+         
+}
+h1{
+    font-size: xx-large;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    
+    color: midnightblue;
+}
+p{
+    font-size: medium;
+    color: darkblue;
+    font-family: cursive;
+    
+}
+.button1 {
+    background-color: rgb(26, 26, 230,0.555);
+    font-family: cursive;
+}
+.button2{
+    background-color: rgba(26, 26, 230, 0.555);
+    font-family: cursive;
+
+}
